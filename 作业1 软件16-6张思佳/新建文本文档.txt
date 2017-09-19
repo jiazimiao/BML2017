@@ -1,0 +1,60 @@
+<html>
+<head>
+<title>百度一下，你就知道</title>
+</head>
+<body >
+<style type="text/css">
+a.one:link {color: Black}
+a.one:visited {color: Black}
+a.one:hover {color: Blue}
+
+a.two:link {background: DodgerBlue;color:White}
+a.two:visited {background: DodgerBlue;color:White}
+a.two:hover {background: none; color: black}
+
+a.three:link {color: gray}
+a.three:visited {color: gray}
+</style>
+<style>
+.class1{
+	width: 100px;
+	height: 36px;
+}
+.class2{
+	background:DodgerBlue;
+}
+.class3{
+	color: gray;
+}
+</style>
+
+<p>
+<h5 align="right"><ins><a class="one" href="http://www.bmlab.cn"><b>新闻</b></a></ins>&emsp;
+<ins><a class="one" href="http://www.bmlab.cn"><b>hao123</b></a></ins>&emsp;
+<ins><a class="one" href="http://www.bmlab.cn"><b>地图</b></a></ins>&emsp;
+<ins><a class="one" href="http://www.bmlab.cn"><b>视频</b></a></ins>&emsp;
+<ins><a class="one" href="http://www.bmlab.cn"><b>贴吧</b></a></ins>&emsp;
+<ins><a class="one" href="http://www.bmlab.cn"><b>学术</b></a></ins>&emsp;
+<ins><a class="one" href="http://www.bmlab.cn">登录</a></ins>&emsp;
+<ins><a class="one" href="http://www.bmlab.cn">设置</a></ins>&emsp;
+<ins><a class="two" href="http://www.bmlab.cn">更多产品</a></ins>
+</h5></p>
+<p align="center"><img hidefocus="ture" src="bd_logo1.png" width="270" height="129" /></p>
+<input type="" name="">
+<div class ="class1 class2"><p text-align:center>百度一下</p></div>
+
+
+<h5 style="text-align: center"><p><ins><a class="three" href="http://www.bmlab.cn"><b>把百度设为主页</b></a></ins>&emsp;
+<ins><a class="three" href="http://www.bmlab.cn"><b>关于百度</b></a></ins>&emsp;
+<ins><a class="three" href="http://www.bmlab.cn"><b>About Baidu</b></a></ins>&emsp;
+<ins><a class="three" href="http://www.bmlab.cn"><b>百度推广</b></a></ins>&emsp;</p>
+<p><a class="class3">@2017 Baidu</a>
+<ins><a class="three" href="http://www.bmlab.cn"><b>使用百度前必读</b></a></ins>
+<ins><a class="three" href="http://www.bmlab.cn"><b>意见反馈</b></a></ins>
+<a class="class3">京ICP证030173号</a>&emsp;
+<ins><a class="three" href="http://www.bmlab.cn"><b>京公网安备11000002000001号</b></a></ins>
+<ins><a class="three" href="http://www.bmlab.cn"><b>贴吧</b></a></ins>&emsp;
+</p></h5>
+//<b>啊卡卡卡</b>*/
+</body>
+</html>
